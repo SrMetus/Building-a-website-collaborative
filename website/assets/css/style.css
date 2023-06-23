@@ -23,25 +23,25 @@ body{
 
 
 .imagen-project h1 {
+    background-color: #ffff;
     width: 100%;
     text-align:center;
-    font-size: 46px;
+    font-size: 100px;
     font-weight: revert;
     color: black;
     position: absolute;
-    top: 40%;
+    top: 10%;
 /
 }
 .imagen-project p {
+    background-color: #ffff;
     width: 100%;
     text-align:center;
-    font-size: 36px;
+    font-size: 60px;
     font-weight: bolder;
     color: black;
     position: absolute;
-    top: 50%;
-
-    text-shadow: 0 0 8px rgb(0, 0.8);
+    top: 30%;
 }
 
 
