@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+    background: #f5f4f4;
 }
 
 .pelao{
@@ -7,11 +7,10 @@ body{
 }
 
 .box {
-    background-color: #998d8d;
-    padding-left: 250px;
-    padding-right: 50px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    background-color: rgb(206, 202, 202);
+    border: 1px solid black;
+    padding-top: 10px;
+    width: 90%;
     
 }
 /* Rafael */
