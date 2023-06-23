@@ -3,36 +3,32 @@ body{
 }
 
 /* Rafael */
-.container{
+.contenedor{
     overflow: hidden;
     position: relative;
     
 }
-.imagen-project{
-    width:100%;
-    height:100%;
-}
 
 
-.imagen-project h2 {
+.imagen-project h1 {
+    width: 100%;
     text-align:center;
     font-size: 46px;
     font-weight: revert;
     color: black;
     position: absolute;
     top: 40%;
-    left: 50%;
-    transform: translate(-50%, -50%); 
+/
 }
 .imagen-project p {
+    width: 100%;
     text-align:center;
     font-size: 36px;
     font-weight: bolder;
     color: black;
     position: absolute;
     top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+
     text-shadow: 0 0 8px rgb(0, 0.8);
 }
 
